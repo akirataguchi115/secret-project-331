@@ -48,7 +48,7 @@ Other essential commands required by scripts (`bc`, `find`, `jq`, `rsync`, `spon
 
 ```bash
 # Ubuntu
-sudo apt install bc find jq rsync moreutils
+sudo apt install bc jq rsync moreutils
 
 # Arch Linux
 sudo pacman -Syu bc find jq rsync moreutils
